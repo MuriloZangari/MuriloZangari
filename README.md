@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Murilo Zangari
 
-<!--
-**MuriloZangari/MuriloZangari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Software Engineer | AI & Machine Learning Specialist**
 
-Here are some ideas to get you started:
+🎓 **PhD in Computer Science**  
+_Focused on applied Machine Learning for Data and Optimization problems_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **1+ years of experience** as a full-stack software engineer
+
+🚀 **Favorite project:** [dev-portfolio](https://github.com/MuriloZangari/dev-portfolio)  
+_Powered by Next.js, React, Tailwind CSS, and framer-motion_
+
+---
+
+## 🛠️ Top Skills
+
+- Python
+- GitHub Actions
+- React, Next.js, Tailwind CSS
+- Node.js
+- Cloud infrastructure (AWS, Docker, Terraform)
+- CI/CD
+- Django
+- Machine Learning, LLMs
+
+---
+
+## 🌍 Connect with me
+
+- 🌐 [Personal website](https://www.murilozangari.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/murilozangari)
+- ✉️ murilo.zangari@gmail.com
